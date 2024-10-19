@@ -24,7 +24,7 @@ By completing this project, you will learn to:
 2. **Write your CSS Styles**: Create your animations from scratch. Need a hint of inspiration? You're welcome to go through our curated buttons for inspiration: [View Reference](https://codepen.io/codespace-academy/pen/xxmWrjX). 
 
 3. **Prepare Your Repository**: 
-    - Save all chanes and update your GitHub repository with the final versions of all files.
+    - Save all changes and update your GitHub repository with the final versions of all files.
     - Include a `README.md` file that outlines the project, your design choices, and any notes on challenges you faced or features you're particularly proud of.
     - Ensure your repository is set to public so it can be accessed by your code coach.
 
@@ -38,3 +38,10 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 - Submit the link to your GitHub repository on the LMS under the project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+
+## STUDENT FEEDBACK 
+- My first two buttons were a mixture of playing around with the colors, transform function, and to understand specificity and inheritance in depth. 
+- My third button was a task i brought upon myself to design a specifc button that i desgined from scratch, well from my mind. Utalizing more elements and being specific in my code helped me achieve what i was looking for in the final button.
+- My first challenge was linking the animation styles to a specific keyframe in order to target a certain button. After refering to certain resouces, the format become much clearer and easier to utalize. 
+- I'm proud of myself for utalizing the before-after pseudo element in order to activate movements and changes. 
+- I'm not used to using shorthands at the moment so the long way is my go to for now. By seperating parts of the css code using comments I'm able to navigate my code easier, hoping it will be easy on the eye for other coders as well. 
